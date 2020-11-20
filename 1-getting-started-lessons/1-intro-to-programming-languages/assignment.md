@@ -9,3 +9,10 @@ There are many tools that a web developer may need that are on the [MDN document
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 |Explained why web developer would use tool| Explained how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
+
+
+Babel is a JavaScript compiler that allows you to code with the newest version and make it compatible with older versions and browsers. I think this is essential for web developers to assure a good compatibility.
+
+Frameworks such as Angular or Node.js are needed to improve the speed coding. They provide a lot of functionalities for free. 
+
+Testing tools are the last part of coding, but not the less important. With them, you con find holes, bugs and things that you don’t expect to happen. You can easily improve your code with this tools. Some of them are: Jest, Mocha, and Jasmine.
