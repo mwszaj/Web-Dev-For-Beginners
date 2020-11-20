@@ -8,8 +8,8 @@
 
 2. Development environments are unique to each developer
 
-- [ ] True
-- [X] False
+- [X] True
+- [ ] False
 
 3. What will a developer do to fix buggy code?
 
