@@ -8,8 +8,8 @@
 
 2. How would you get all the commits from a remote branch?
 
-- [X] `git fetch`
-- [ ] `git pull`
+- [ ] `git fetch`
+- [X] `git pull`
 - [ ] `git commits -r`
 
 3. How do you switch to a branch?
